@@ -1,3 +1,9 @@
+# Team ओस की बूँदें
+- Anchal
+- Akhin
+- Abhinav
+- Satyam
+
 # The Little Herb Garden
 
 A small website about herbs you can smell, taste and grow. Every herb has its own page, built in the browser from a JSON file.
