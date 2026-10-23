@@ -1,8 +1,4 @@
-# Team ओस की बूँदें
-- Anchal
-- Akhin
-- Abhinav
-- Satyam
+Abhinav Kumar Parbat
 
 # The Little Herb Garden
 
